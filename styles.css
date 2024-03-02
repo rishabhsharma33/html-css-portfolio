@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    
+
+}
+
+.portfolio-image{
+    margin-top: 0px;
+    border-radius: 50%;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.top-container{
+    background-color: #A2C7E5;
+
+}
+
+.middle-container{
+    background-color: white;
+    padding-bottom: 50px;
+}
+
+
+div{
+    display: block;
+}
+
+h1{
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-weight: normal;
+    font-size: 2.5rem;
+}
+.sacramento {
+        font-family: "Sacramento", cursive;
+        font-weight: 400;
+        font-size: 100px;
+        font-style: normal; 
+    }
+    
+span{
+    font-size: medium;
+}
+
+.first-paragraph{
+    padding-bottom: 50px;
+    font-size: 24px;
+}
+
+h3{
+    font-weight:bold;
+    font-size: 1.5rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    background-color: #F45D01;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.get-in-touch{
+    padding-top: 50px;
+}
+
+.hello{
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+footer{
+    background-color: #A2C7E5;
+}
